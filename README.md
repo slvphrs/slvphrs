@@ -41,10 +41,11 @@
 ### 🐍 Snake contrib
 
 <p align="center">
-  <img src="https://github.com/slvphrs/slvphrs/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/slvphrs/slvphrs/blob/output/github-contribution-grid-snake.svg?raw=true" alt="snake gif" />
 </p>
 
 ---
+
 
 ### 📫 Onde me encontrar
 
