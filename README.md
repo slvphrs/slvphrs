@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img src="https://media.giphy.com/media/ij1WvlilscRFoIRn7u/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media.giphy.com/media/ij1WvlilscRFoIRn7u/giphy.gif" alt="Banner" width="100%" height="300px" />
 
 <h1 align="center">
   Bem-vindo(a) ao meu perfil! 👋
