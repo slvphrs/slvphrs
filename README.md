@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img src="https://giphy.com/gifs/beauty-ocean-glow-ij1WvlilscRFoIRn7u" alt="Banner" width="100%" />
+<img src="https://media.giphy.com/media/ij1WvlilscRFoIRn7u/giphy.gif" alt="Banner" width="100%" />
 
 <h1 align="center">
   Bem-vindo(a) ao meu perfil! 👋
