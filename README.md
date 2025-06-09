@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img src="[https://i.imgur.com/ghfVh3x.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84Mm02djcxdXU5dnhraXZocHo5NHBzeWg0MXAwYm1waHgxZ3R6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif)" alt="Banner" width="100%" />
+<img src="https://i.imgur.com/ghfVh3x.gif" alt="Banner" width="100%" />
 
 <h1 align="center">
   Bem-vindo(a) ao meu perfil! 👋
