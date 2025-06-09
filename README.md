@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img src="https://i.imgur.com/ghfVh3x.gif" alt="Banner" width="100%" />
+<img src="[https://i.imgur.com/ghfVh3x.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm84Mm02djcxdXU5dnhraXZocHo5NHBzeWg0MXAwYm1waHgxZ3R6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif)" alt="Banner" width="100%" />
 
 <h1 align="center">
   Bem-vindo(a) ao meu perfil! 👋
@@ -7,8 +7,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8F5CFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Especialista+em+tecnologias+web;Sempre+em+busca+de+novos+desafios+e+aprendizado" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8F5CFF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Focado+em+tecnologias+web;SQL+e+performance" alt="Typing SVG" />
 </p>
+
 
 ---
 
