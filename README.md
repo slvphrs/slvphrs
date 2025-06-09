@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8F5CFF&center=true&vCenter=true&width=435&lines=Olá!,+me+chamo+Pedro;Desenvolvedor+Fullstack;Focado+em+tecnologias+web;SQL+e+performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8F5CFF&center=true&vCenter=true&width=435&lines=Olá!+me+chamo+Pedro;Desenvolvedor+Fullstack;Focado+em+tecnologias+web;SQL+e+performance" alt="Typing SVG" />
 </p>
 
 
