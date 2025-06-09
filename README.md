@@ -1,5 +1,6 @@
-<!-- Banner animado -->
-<img src="https://media.giphy.com/media/ij1WvlilscRFoIRn7u/giphy.gif" alt="Banner" width="100%" height="300px" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F5CFF&height=150&section=header"/>
+</p>
 
 <h1 align="center">
   Bem-vindo(a) ao meu perfil! 👋
