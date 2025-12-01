@@ -1,9 +1,14 @@
 name: Generate Snake
+
 on:
   schedule:
     # Roda a cada 12 horas (pode ajustar)
     - cron: "0 */12 * * *" 
   workflow_dispatch:
+
+# Esta seção é a correção para o erro 403 / Permission denied
+permissions:
+  contents: write 
 
 jobs:
   generate:
@@ -14,7 +19,6 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          # O caminho onde o arquivo SVG será gerado
           outputs: dist/github-contribution-grid-snake.svg
           
       - uses: actions/upload-pages-artifact@v3
