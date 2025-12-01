@@ -32,8 +32,7 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=slvphrs&theme=radical&no-frame=true&no-bg=true" width="49%" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=slvphrs&no-frame=true&no-bg=true&title=8F5CFF&rank=8F5CFF&row=C9D1D9" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=slvphrs&theme=radical&stroke=8F5CFF&ring=8F5CFF&fire=8F5CFF&currStreakLabel=8F5CFF&sideLabels=C9D1D9&sideNums=C9D1D9" width="49%" />
 </p>
 
